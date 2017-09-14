@@ -1,5 +1,5 @@
 {
-  "name": "@deltaplus/lokka-transport-http",
+  "name": "deltaplus-lokka-transport-http-context",
   "version": "1.6.1",
   "description": "Isomorphic HTTP Transport for Lokka",
   "repository": {

@@ -1,6 +1,6 @@
 {
   "name": "deltaplus-lokka-transport-http-context",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "Isomorphic HTTP Transport for Lokka",
   "repository": {
     "type": "git",
